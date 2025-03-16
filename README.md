@@ -1,7 +1,7 @@
 # 💫 About Me:
 lemon
 ### Current Projects
- - ![image](https://github.com/user-attachments/assets/3cdfe7f7-a19b-4706-a8c9-5e740d71840e)
+ - [Shu's Hats](https://github.com/TheShute/Shus-Hats)
 
 
 # 💻 Tech Stack:
